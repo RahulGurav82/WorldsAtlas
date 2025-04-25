@@ -5,7 +5,7 @@ import countryData from "../api/CountryData.json";
 
 const About = () => {
   return (
-    <section className="py-12 bg-gray-900">
+    <section className="py-20 bg-gray-900">
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
           <h2 className="text-white text-3xl md:text-4xl font-bold mb-4">
