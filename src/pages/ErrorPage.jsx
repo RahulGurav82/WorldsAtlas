@@ -12,7 +12,7 @@ const ErrorPage = () => {
   return (
     <div>
         {error.status}
-        {error.error.message}
+        {error.data}
         <button onClick={handleBack}>Go Back</button>
     </div>
   )

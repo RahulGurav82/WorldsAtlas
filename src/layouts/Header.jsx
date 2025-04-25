@@ -6,7 +6,7 @@ const Header = () => {
 
   const [isOpen, setIsOpen] = useState(false)
   return (
-    <nav className='w-full bg-gray-950 z-50 fixed shadow-md'>
+    <nav className='w-full bg-gray-700 z-50 fixed shadow-md'>
       <div className=' max-w-7xl mx-auto px-4 sm:px-6 lg:px-8'>
         <div className='text-white h-16 flex items-center justify-between'>
           <div className='text-2xl font-bold'>WorldsAtlas</div>

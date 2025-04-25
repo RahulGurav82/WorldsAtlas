@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 section {
-    @apply pt-16
+    @apply w-full bg-black py-10 pt-28 md:px-28;
 }
