@@ -12,8 +12,8 @@ const Header = () => {
           <div className='text-2xl font-bold'>WorldsAtlas</div>
           <div className='hidden md:flex md:items-center md:space-x-6'>
             <NavLink to={"/"}><p className='text-white hover:text-blue-700'>Home</p></NavLink>
-            <NavLink to={"/about"}><p className=' text-white hover:text-blue-700'>About</p></NavLink>
             <NavLink to={"/country"}><p className=' text-white hover:text-blue-700'>Country</p></NavLink>
+            <NavLink to={"/about"}><p className=' text-white hover:text-blue-700'>About</p></NavLink>
             <NavLink to={"/contact"}><p className=' text-white hover:text-blue-700'>Contact</p></NavLink>
           </div>
 
