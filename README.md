@@ -2,7 +2,7 @@
 
 An interactive atlas website that lets users explore countries around the world, learn about their cultures, geography, and fascinating facts.
 
-![WorldsAtlas Banner](https://via.placeholder.com/800x400?text=WorldsAtlas)
+![WorldsAtlas Banner](https://github.com/user-attachments/assets/41fc0b67-be6a-4d7b-b95a-c945d75f55c9)
 
 ## 📖 About
 
@@ -27,34 +27,39 @@ For each country, WorldsAtlas provides:
 
 ## 📸 Screenshots
 
-![Home Page](https://via.placeholder.com/400x200?text=Home+Page)
-![Country Detail](https://via.placeholder.com/400x200?text=Country+Detail)
+![Home Page](https://github.com/user-attachments/assets/41fc0b67-be6a-4d7b-b95a-c945d75f55c9)
+![Country Detail](https://github.com/user-attachments/assets/7f60a640-c8c2-482b-909b-34612ae6a2a3)
 
 ## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
+- React 19
+- TailwindCSS
 - JavaScript
-- [Add any frameworks or libraries you're using]
 
 ## 🚀 Getting Started
 
 ### Prerequisites
 
-- A modern web browser
-- [Any other prerequisites]
+- Node JS
+- React 19
 
 ### Installation
 
 1. Clone the repository
    ```
-   git clone https://github.com/yourusername/worldsatlas.git
+   git clone https://github.com/RahulGurav82/worldsatlas.git
    ```
 2. Navigate to the project directory
    ```
    cd worldsatlas
    ```
-3. Open `index.html` in your browser
+3. Run
+   ```
+   npm install
+   ```
+    ```
+   npm run dev
+   ```
 
 ## 🗺️ Sample Data
 
@@ -80,6 +85,6 @@ Copyright © 2025. All Rights Reserved by Rahul Gurav
 
 ## 🔗 Links
 
-- [Live Website](#)
+- [Live Website](https://worlds-atlas.vercel.app/)
 - [Privacy Policy](#)
 - [About](#)
