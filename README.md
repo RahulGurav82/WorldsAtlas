@@ -1,12 +1,85 @@
-# React + Vite
+# WorldsAtlas
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive atlas website that lets users explore countries around the world, learn about their cultures, geography, and fascinating facts.
 
-Currently, two official plugins are available:
+![WorldsAtlas Banner](https://via.placeholder.com/800x400?text=WorldsAtlas)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📖 About
 
-## Expanding the ESLint configuration
+WorldsAtlas is a comprehensive platform designed to provide detailed information about every nation on Earth. Users can explore the rich history, vibrant cultures, and stunning landscapes of countries worldwide through our interactive interface.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+- **Search functionality**: Find any country instantly
+- **Filter options**: Sort countries by region or size
+- **Detailed information**: Access comprehensive data about each country
+- **Interactive UI**: User-friendly interface for seamless exploration
+- **Interesting Facts**: Discover fascinating information about countries
+
+## 🌍 Country Information
+
+For each country, WorldsAtlas provides:
+- Capital city
+- Population
+- Interesting facts
+- Geographic information
+- Cultural highlights
+
+## 📸 Screenshots
+
+![Home Page](https://via.placeholder.com/400x200?text=Home+Page)
+![Country Detail](https://via.placeholder.com/400x200?text=Country+Detail)
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- [Add any frameworks or libraries you're using]
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- A modern web browser
+- [Any other prerequisites]
+
+### Installation
+
+1. Clone the repository
+   ```
+   git clone https://github.com/yourusername/worldsatlas.git
+   ```
+2. Navigate to the project directory
+   ```
+   cd worldsatlas
+   ```
+3. Open `index.html` in your browser
+
+## 🗺️ Sample Data
+
+The application includes information about numerous countries, including:
+
+- **Nepal**: Home to Mount Everest, the tallest mountain in the world (8,848 meters)
+- **Egypt**: Features the Pyramids of Giza, one of the Seven Wonders of the Ancient World
+- **Australia**: Home to the Great Barrier Reef, the largest coral reef system globally
+- **Brazil**: Contains the Amazon Rainforest, the world's largest tropical rainforest
+- **France**: Once had the tallest man-made structure (Eiffel Tower)
+- **Russia**: The largest country by area (17+ million square kilometers)
+- **China**: Features the Great Wall, occasionally visible from space
+
+## 📱 Contact
+
+- **Location**: Mumbai, Maharashtra
+- **Phone**: 9137408709
+- **Email**: guravrahul988@gmail.com
+
+## 📝 License
+
+Copyright © 2025. All Rights Reserved by Rahul Gurav
+
+## 🔗 Links
+
+- [Live Website](#)
+- [Privacy Policy](#)
+- [About](#)
