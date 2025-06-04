@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import countryData from "../api/CountryData.json";
 import { Globe, MapPin, Users, Info } from 'lucide-react';
 import { ArrowRight } from 'lucide-react';
+import { NavLink } from 'react-router-dom';
 
 const About = () => {
   const [hoveredCard, setHoveredCard] = useState(null);
@@ -88,13 +89,13 @@ const About = () => {
         
         {/* CTA Section */}
         <div className="mt-16 text-center">
-          <a 
-            href="/country" 
+          <NavLink 
+            to="country"
             className="inline-flex items-center gap-2 px-6 py-3 bg-gradient-to-r from-blue-600 to-indigo-600 text-white font-medium rounded-lg hover:from-blue-700 hover:to-indigo-700 transition-all duration-300 shadow-lg hover:shadow-xl"
           >
             Explore All Countries
             <ArrowRight className="h-4 w-4" />
-          </a>
+          </NavLink>
         </div>
       </div>
     </section>
