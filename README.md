@@ -25,7 +25,7 @@ For each country, WorldsAtlas provides:
 - Geographic information
 - Cultural highlights
 
-## 📸 Screenshots -
+## 📸 Screenshots
 
 ![Home Page](https://github.com/user-attachments/assets/41fc0b67-be6a-4d7b-b95a-c945d75f55c9)
 ![Country Detail](https://github.com/user-attachments/assets/7f60a640-c8c2-482b-909b-34612ae6a2a3)
